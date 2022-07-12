@@ -10,6 +10,10 @@ body {
 h1{
     padding:40px 0;
     text-align: center;
+    font-size: 175%;
+}
+h2{
+    font-size: 125%;
 }
 article {
     width:100%;
